@@ -1,4 +1,13 @@
 # HDU-login
 HDU-login
 模拟登录杭电教务系统的网站
-自己做了一个抢课系统 这是其中模拟登陆的一部分，其他部分见https://www.dabianhaochi.cn/xieleyigeqiangkeruanjian.html
+自己做了一个抢课系统 这是其中模拟登陆的一部分，其他部分见，以及登陆原理请见https://www.dabianhaochi.cn/xieleyigeqiangkeruanjian.html
+
+# something to add
+hdu采用了CAS跳转登入，可以用该login代码用作爬虫等用途。
+
+项目写了一段时间后，发现代码的风格和程序的易用性，可扩展性，代码的可读性，都存在一定的问题，所以接下来最重要的是重构代码，让大家可以更容易的做出一些自己的小功能。
+
+这个项目开始于 2018.1，网站的登录机制有可能经常的变动，所以当现在的模拟的登录的规则不能使用的时候，请在 issue 中提出 如果时间允许的话，我会更新。
+
+该代码只能用于学习交流，不能用于商业化等。想要用的直接拿走。欢迎互相交流。
