@@ -77,8 +77,8 @@ def login():
             'service' : 'http://jxglteacher.hdu.edu.cn/index.aspx',  
             'serviceName' : 'null', 
             'loginErrCnt' : '0', 
-            'username' : '16222555',   
-            'password' : '0ecbbd1a4c33bef9eab664776756710c',
+            'username' : '学号',   
+            'password' : '你的密码',
             'lt' : loginticket
         
             } 
